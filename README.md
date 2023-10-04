@@ -21,6 +21,7 @@ Check out the video below to see the lip-syncing project in action:
 
 ## Lip Syncing Project Demo
 Tech news:- https://drive.google.com/file/d/1NoGRTBrsL73ptAmikMocvooqrWgTZ9tA/view?usp=sharing
+
 Joe Biden:- https://drive.google.com/file/d/1tfocZogQnwunIv7oKF0NviJjigkg3g7I/view?usp=drive_link
 
 Click on the link above to watch the video demonstration.
