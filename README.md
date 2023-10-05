@@ -1,4 +1,4 @@
-# AI/ML-Wav2lip-sync-Assessment 1
+# AI/ML-Wav2lip-sync
 This project focuses on lip-syncing, using the Wav2Lip repository as a reference. Wav2Lip is a lip-syncing algorithm that generates realistic lip movements for a given speech input.
 
 ## Wav2Lip Repository
